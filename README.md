@@ -9,6 +9,12 @@ SquareGrid has a few plotting styles that you can access. These are
 - LGrid: One primary plot with 5 minor panels, arranged in an "L" shape around the primary. (Position primary in upper left/right, bottom left/right)
 - UGrid: One primary with 7 minor panels, arranged in a U shape or n shape around the primary. 
 
+<object data="examples/QuintGrid/QuintGrid_primary_middle.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="examples/QuintGrid/QuintGrid_primary_middle.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="examples/QuintGrid/QuintGrid_primary_middle.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## Initialization 
 
 After importing `squaregrid.SquareGrid`, you can initilize a plot by calling the class and specififying a figure width:
