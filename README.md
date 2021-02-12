@@ -9,7 +9,7 @@ SquareGrid has a few plotting styles that you can access. These are
 - LGrid: One primary plot with 5 minor panels, arranged in an "L" shape around the primary. (Position primary in upper left/right, bottom left/right)
 - UGrid: One primary with 7 minor panels, arranged in a U shape or n shape around the primary. 
 
-<img src="examples/QuintGrid_primary_center.png"
+<img src="examples/QuintGrid_primary_middle.png"
      alt="QuintGrid_primary_center"
      style="float: left; margin-right: 10px;" />
 
