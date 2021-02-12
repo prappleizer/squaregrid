@@ -1,1 +1,1 @@
-from .squaregrid.py import *
+from .squaregrid import *

@@ -1,0 +1,8 @@
+README.md
+setup.py
+squaregrid/__init__.py
+squaregrid/squaregrid.py
+squaregrid.egg-info/PKG-INFO
+squaregrid.egg-info/SOURCES.txt
+squaregrid.egg-info/dependency_links.txt
+squaregrid.egg-info/top_level.txt
