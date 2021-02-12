@@ -25,7 +25,7 @@ The figure and axis object returned by this method are free for you to interact 
 
 ## TriGrid, QuantGrid, QuintGrid
 The primary adjustable parameter for these methods is `primary`, which determines where the large plot sits in relation to the smaller plots. For `TriGrid` and `QuantGrid`, the options for primary are: 
-- `left'`: Main plot is left, stack of 2 (or 3) smaller plots to the right.
+- `'left'`: Main plot is left, stack of 2 (or 3) smaller plots to the right.
 - `'right'`: Main plot is right, stack of 2 (or 3) smaller plots to the left. 
 - `'top'`: Main plot is top, 2 (or 3) plots across the bottom. 
 - `'bottom'`: Main plot is bottom, 2 (or 3) plots across the top. 
