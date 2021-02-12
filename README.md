@@ -34,6 +34,10 @@ The primary adjustable parameter for these methods is `primary`, which determine
 - `'top'`: Main plot is top, 2 (or 3) plots across the bottom. 
 - `'bottom'`: Main plot is bottom, 2 (or 3) plots across the top. 
 
+<img src="examples/TriGrid/TriGrid_primary_left.png"
+     alt="TriGrid_primary_left"
+     style="float: left; margin-right: 10px;" />
+
 For `QuintGrid`, the options are 
 - `left'`: Main plot is left, square of 4 plots to the right.
 - `'right'`: Main plot is right, square of 4 plots to the left.
@@ -47,11 +51,15 @@ For `LGrid`, the main argument is `pos`, which sets the position of the main pan
 - `'upper_right'` (or `'ur'`): Main figure upper right, wrapped on bottom and left. 
 - `'lower_right'` (or `'lr'`): Main figure lower right, wrapped on top and left. 
 - `'lower_left'` (or `'ll'`): Main figure lower left, wrapped on top and right. 
-
+<img src="examples/LGrid/LGrid_loc_upper_right.png"
+     alt="LGrid_loc_upper_right"
+     style="float: left; margin-right: 10px;" />
 For `UGrid`, the main argument is `orientation` which sets whether the wrap of small panels wraps above or below the primary figure. 
 - `'up'`: "U" shape in the small panels, wrapping below the main panel. 
 - `'down'`: "n" shape in the small panels, wrapping above the main panel. 
-
+<img src="examples/UGrid/UGrid_orientation_down.png"
+     alt="UGrid_orientation_down"
+     style="float: left; margin-right: 10px;" />
 ## Helper keywords 
 Each of the `SquareGrid` methods comes with a few helper keywords. 
 - `hidelabels (default True)`: Suppress the numerical labels on axes. 
